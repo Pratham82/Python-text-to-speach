@@ -1,0 +1,1 @@
+When I first discovered Vim, I thought it was an outdated editor that was unnecessarily hard to use. Until one day I saw my friend doing Vim magic. I thought that was the coolest thing I have ever seen. Fast forward several years, Vim is now my main editor.
