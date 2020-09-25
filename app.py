@@ -1,7 +1,6 @@
 import os
 import pyttsx3
 import PyPDF2
-import keyboard
 
 def simpleSpeaker():
 	entries = os.listdir('Files/')
